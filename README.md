@@ -6,4 +6,4 @@ A near-meaningless undertaking of mine to create a few class templates for data 
 
 ## 1. AVL Trees
 - Standard implementation
-- push(), pop(), Delete(), Search() functions have been added
+- push(), pop(), Delete(), Search() functions have been added  
